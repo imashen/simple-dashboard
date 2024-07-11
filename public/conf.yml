@@ -1,0 +1,36 @@
+random_cover: true # random_cover: true | false
+html_title: 简易导航页
+logo: Hello~
+motto: #
+copyright: ©Github | imashen
+conf:
+  - icon: fas cloud
+    text: 云盘
+    link: https://bing.com
+  - icon: fas blog
+    text: 点滴
+    link: https://bing.com
+  - icon: fas images
+    text: 相册
+    link: https://bing.com
+  - icon: fa fa-address-book
+    text: 法典
+    link: https://bing.com
+  - icon: fas server
+    text: 群晖
+    link: https://bing.com
+  - icon: fas music
+    text: 听歌
+    link: https://bing.com
+  - icon: fab github
+    text: github
+    link: https://bing.com
+  - icon: fas cogs
+    text: gogs
+    link: https://bing.com
+  - icon: fab readme
+    text: 简历
+    link: https://bing.com
+  - icon: fab qq
+    text: 企鹅
+    link: https://bing.com
